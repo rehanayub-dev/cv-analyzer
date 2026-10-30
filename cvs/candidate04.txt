@@ -1,0 +1,24 @@
+SARA IQBAL
+Backend Developer
+Email: sara.iqbal@example.com | Phone: +92-300-0000004
+Location: Lahore, Pakistan
+
+PROFESSIONAL SUMMARY
+Backend developer with experience creating web services, integrating databases, and maintaining APIs.
+
+TECHNICAL SKILLS
+Python, Django, REST API, PostgreSQL, SQL, Docker, Git, testing, Linux
+
+EDUCATION
+BS Software Engineering, Example University, 2022
+
+EXPERIENCE / PROJECTS
+Backend Developer — Example Apps | 2022–2025
+- Developed Django REST endpoints for internal business tools.
+- Designed PostgreSQL tables and optimized frequently used queries.
+- Added automated tests and reviewed changes through Git.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

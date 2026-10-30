@@ -1,0 +1,24 @@
+IQRA NADEEM
+Python Web Developer
+Email: iqra.nadeem@example.com | Phone: +92-300-0000016
+Location: Lahore, Pakistan
+
+PROFESSIONAL SUMMARY
+Python web developer with experience in Django applications, REST endpoints, SQL databases, and testing.
+
+TECHNICAL SKILLS
+Python, Django, REST APIs, SQL, PostgreSQL, Git, pytest, HTML, CSS
+
+EDUCATION
+BS Computer Science, Example University, 2023
+
+EXPERIENCE / PROJECTS
+Python Web Developer — AppExample | 2023–2025
+- Implemented Django views and REST API endpoints.
+- Created SQL queries and database models for application features.
+- Wrote tests and documented release changes.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

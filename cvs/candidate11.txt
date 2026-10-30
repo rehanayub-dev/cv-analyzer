@@ -1,0 +1,24 @@
+AHMED FAROOQ
+Full-Stack Developer
+Email: ahmed.farooq@example.com | Phone: +92-300-0000011
+Location: Karachi, Pakistan
+
+PROFESSIONAL SUMMARY
+Full-stack developer with experience across Python services, relational databases, and browser interfaces.
+
+TECHNICAL SKILLS
+Python, Flask, REST API, SQL, PostgreSQL, JavaScript, HTML, CSS, Git, Docker
+
+EDUCATION
+BS Software Engineering, Example University, 2021
+
+EXPERIENCE / PROJECTS
+Full-Stack Developer — Demo Digital | 2021–2025
+- Built Flask services and connected them to PostgreSQL.
+- Created internal dashboards using JavaScript, HTML, and CSS.
+- Maintained CI checks and version control workflows.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

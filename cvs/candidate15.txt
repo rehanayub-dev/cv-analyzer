@@ -1,0 +1,24 @@
+OMAR SIDDIQUI
+C++ Software Engineer
+Email: omar.siddiqui@example.com | Phone: +92-300-0000015
+Location: Islamabad, Pakistan
+
+PROFESSIONAL SUMMARY
+Software engineer focused on performance-sensitive applications and core programming concepts.
+
+TECHNICAL SKILLS
+C++, algorithms, data structures, debugging, Linux, Git, object-oriented design
+
+EDUCATION
+BS Computer Engineering, Example University, 2022
+
+EXPERIENCE / PROJECTS
+Software Engineer — Sample Embedded | 2022–2025
+- Implemented and debugged C++ modules for a desktop application.
+- Reviewed algorithms for correctness and performance.
+- Used Git and issue tracking for team development.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

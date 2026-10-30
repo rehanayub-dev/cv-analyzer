@@ -1,0 +1,24 @@
+ZOYA MIR
+Graduate Software Developer
+Email: zoya.mir@example.com | Phone: +92-300-0000020
+Location: Multan, Pakistan
+
+PROFESSIONAL SUMMARY
+Recent computer science graduate with coursework in programming, databases, software engineering, and introductory analytics.
+
+TECHNICAL SKILLS
+Python basics, SQL basics, Java, Git, data structures, software testing, teamwork
+
+EDUCATION
+BS Computer Science, Example University, 2025
+
+EXPERIENCE / PROJECTS
+Software Engineering Capstone — University Project | 2024–2025
+- Worked in a team to plan and test a small inventory management application.
+- Designed a relational database schema and wrote basic SQL queries.
+- Used Git for source control and documented test cases.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

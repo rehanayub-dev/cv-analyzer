@@ -1,0 +1,24 @@
+RAYAN SHEIKH
+Mobile App Developer
+Email: rayan.sheikh@example.com | Phone: +92-300-0000019
+Location: Karachi, Pakistan
+
+PROFESSIONAL SUMMARY
+Mobile developer experienced in building application interfaces and integrating remote services.
+
+TECHNICAL SKILLS
+Kotlin, Android, Java, REST APIs, SQLite, Git, UI testing
+
+EDUCATION
+BS Software Engineering, Example Institute, 2022
+
+EXPERIENCE / PROJECTS
+Android Developer — MobileSample | 2022–2025
+- Built Android application screens and connected them to remote APIs.
+- Stored local app data using SQLite.
+- Investigated defects and maintained release notes.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

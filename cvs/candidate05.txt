@@ -1,0 +1,24 @@
+USMAN RAZA
+Java Developer
+Email: usman.raza@example.com | Phone: +92-300-0000005
+Location: Rawalpindi, Pakistan
+
+PROFESSIONAL SUMMARY
+Software developer experienced in enterprise application development and relational databases.
+
+TECHNICAL SKILLS
+Java, Spring Boot, MySQL, REST APIs, Git, object-oriented programming, unit testing
+
+EDUCATION
+BS Information Technology, Example College, 2022
+
+EXPERIENCE / PROJECTS
+Software Developer — Sample Systems | 2022–2025
+- Built REST services using Java and Spring Boot.
+- Maintained MySQL queries and database migrations.
+- Collaborated with QA to troubleshoot application defects.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

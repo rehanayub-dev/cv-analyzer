@@ -1,0 +1,24 @@
+BILAL AHMED
+Data Analyst
+Email: bilal.ahmed@example.com | Phone: +92-300-0000002
+Location: Islamabad, Pakistan
+
+PROFESSIONAL SUMMARY
+Data analyst focused on SQL reporting, Python-based data preparation, and communicating business insights.
+
+TECHNICAL SKILLS
+Python, SQL, Excel, Power BI, pandas, data cleaning, statistics, visualization
+
+EDUCATION
+BS Statistics, Example Institute, 2023
+
+EXPERIENCE / PROJECTS
+Data Analyst — Example Analytics | 2023–2025
+- Created SQL reports and dashboards for monthly performance reviews.
+- Automated data cleaning tasks with Python and pandas.
+- Presented findings to non-technical stakeholders.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

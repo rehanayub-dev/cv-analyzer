@@ -1,0 +1,27 @@
+AYESHA KHAN
+Junior Python Developer
+Email: ayesha.khan@example.com | Phone: +92-300-0000001
+Location: Lahore, Pakistan
+
+PROFESSIONAL SUMMARY
+Junior Python developer with hands-on academic and project experience building data-driven applications and REST APIs.
+
+TECHNICAL SKILLS
+Python, SQL, Flask, REST APIs, Git, pandas, NumPy, data analysis, unit testing
+
+EDUCATION
+BS Computer Science, Example University, 2024
+
+EXPERIENCE / PROJECTS
+Python Developer Intern — SampleTech | 2024–2025
+- Built Flask REST endpoints for a student management application.
+- Wrote SQL queries and improved database retrieval for reporting.
+- Used Git branches and pull requests with a small development team.
+
+Academic Data Analysis Project | 2023–2024
+- Cleaned CSV datasets using pandas and summarized trends with charts.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

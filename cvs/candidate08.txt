@@ -1,0 +1,24 @@
+HIRA SALEEM
+Database Assistant
+Email: hira.saleem@example.com | Phone: +92-300-0000008
+Location: Multan, Pakistan
+
+PROFESSIONAL SUMMARY
+Database-focused graduate with practical SQL querying and data quality experience.
+
+TECHNICAL SKILLS
+SQL, PostgreSQL, MySQL, database design, Excel, data validation, reporting
+
+EDUCATION
+BS Information Systems, Example University, 2024
+
+EXPERIENCE / PROJECTS
+Database Assistant — Example Services | 2024–2025
+- Wrote SQL queries to reconcile records and identify data quality issues.
+- Helped document table relationships and reporting definitions.
+- Prepared recurring reports for operations teams.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

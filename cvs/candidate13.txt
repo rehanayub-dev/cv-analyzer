@@ -1,0 +1,24 @@
+TALHA JAVED
+DevOps Trainee
+Email: talha.javed@example.com | Phone: +92-300-0000013
+Location: Peshawar, Pakistan
+
+PROFESSIONAL SUMMARY
+Junior infrastructure engineer interested in deployment automation and reliable development workflows.
+
+TECHNICAL SKILLS
+Linux, Docker, Git, CI/CD, Bash, cloud fundamentals, Python basics, monitoring
+
+EDUCATION
+BS Computer Science, Example Institute, 2024
+
+EXPERIENCE / PROJECTS
+DevOps Trainee — CloudPractice | 2024–2025
+- Created basic CI workflows for sample applications.
+- Packaged development services with Docker.
+- Wrote small Python and Bash scripts for routine checks.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

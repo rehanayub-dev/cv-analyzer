@@ -1,0 +1,24 @@
+MAHAM TARIQ
+Python Automation Intern
+Email: maham.tariq@example.com | Phone: +92-300-0000006
+Location: Faisalabad, Pakistan
+
+PROFESSIONAL SUMMARY
+Entry-level developer who uses Python to automate repetitive tasks and process structured files.
+
+TECHNICAL SKILLS
+Python, scripting, CSV, JSON, requests, Git, debugging, basic SQL
+
+EDUCATION
+BS Computer Science, Example University, 2025
+
+EXPERIENCE / PROJECTS
+Automation Intern — PracticeWorks | 2025
+- Created scripts to validate CSV files and rename batches of documents.
+- Consumed sample REST endpoints and processed JSON responses.
+- Used Git to track changes and wrote setup instructions.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

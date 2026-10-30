@@ -1,0 +1,24 @@
+NOOR FATIMA
+IT Support Specialist
+Email: noor.fatima@example.com | Phone: +92-300-0000010
+Location: Gujranwala, Pakistan
+
+PROFESSIONAL SUMMARY
+IT support specialist experienced in troubleshooting, documentation, and assisting end users.
+
+TECHNICAL SKILLS
+Windows, Linux basics, networking, troubleshooting, ticketing systems, documentation
+
+EDUCATION
+BS Information Technology, Example College, 2021
+
+EXPERIENCE / PROJECTS
+IT Support Specialist — Sample Office | 2021–2025
+- Resolved workstation, account, and connectivity support tickets.
+- Maintained knowledge-base articles and asset records.
+- Helped onboard staff to standard office software.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

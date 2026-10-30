@@ -1,0 +1,24 @@
+DANIYAL QURESHI
+Data Science Trainee
+Email: daniyal.qureshi@example.com | Phone: +92-300-0000009
+Location: Islamabad, Pakistan
+
+PROFESSIONAL SUMMARY
+Recent graduate learning predictive modeling and data analysis through practical projects.
+
+TECHNICAL SKILLS
+Python, machine learning, pandas, NumPy, scikit-learn, statistics, data visualization
+
+EDUCATION
+BS Data Science, Example University, 2025
+
+EXPERIENCE / PROJECTS
+Data Science Trainee — LearnLab | 2025
+- Cleaned and explored sample datasets with pandas and NumPy.
+- Compared baseline regression and classification models.
+- Explained project findings in short technical reports.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

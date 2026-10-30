@@ -1,0 +1,24 @@
+EMAN YOUSAF
+Business Analyst
+Email: eman.yousaf@example.com | Phone: +92-300-0000012
+Location: Lahore, Pakistan
+
+PROFESSIONAL SUMMARY
+Business analyst who translates stakeholder needs into requirements, process maps, and reports.
+
+TECHNICAL SKILLS
+Requirements gathering, Excel, SQL basics, documentation, process mapping, communication
+
+EDUCATION
+BBA, Example University, 2022
+
+EXPERIENCE / PROJECTS
+Business Analyst — Example Consulting | 2022–2025
+- Gathered requirements and documented user stories.
+- Used spreadsheets and basic SQL to validate business reports.
+- Coordinated acceptance testing with product stakeholders.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

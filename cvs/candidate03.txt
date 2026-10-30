@@ -1,0 +1,24 @@
+HAMZA MALIK
+Machine Learning Intern
+Email: hamza.malik@example.com | Phone: +92-300-0000003
+Location: Karachi, Pakistan
+
+PROFESSIONAL SUMMARY
+Computer science graduate interested in machine learning, model evaluation, and Python application development.
+
+TECHNICAL SKILLS
+Python, machine learning, scikit-learn, pandas, NumPy, SQL, Git, model evaluation
+
+EDUCATION
+BS Computer Science, Example University, 2025
+
+EXPERIENCE / PROJECTS
+Machine Learning Intern — Demo Labs | 2025
+- Prepared datasets and trained baseline classification models using scikit-learn.
+- Evaluated models using precision, recall, and F1-score.
+- Documented experiments and maintained project code in Git.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

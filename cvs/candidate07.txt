@@ -1,0 +1,24 @@
+ZAIN SHAH
+Frontend Developer
+Email: zain.shah@example.com | Phone: +92-300-0000007
+Location: Lahore, Pakistan
+
+PROFESSIONAL SUMMARY
+Frontend developer who builds responsive interfaces and integrates client applications with APIs.
+
+TECHNICAL SKILLS
+HTML, CSS, JavaScript, React, TypeScript, accessibility, REST APIs, Git
+
+EDUCATION
+BS Computer Science, Example Institute, 2023
+
+EXPERIENCE / PROJECTS
+Frontend Developer — WebDemo | 2023–2025
+- Built responsive React components for a customer portal.
+- Integrated frontend pages with REST API endpoints.
+- Maintained component documentation and collaborated through Git.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

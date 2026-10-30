@@ -1,0 +1,24 @@
+MARYAM KHALID
+AI Project Intern
+Email: maryam.khalid@example.com | Phone: +92-300-0000018
+Location: Faisalabad, Pakistan
+
+PROFESSIONAL SUMMARY
+Graduate interested in applied AI, Python-based prototypes, and practical machine learning experiments.
+
+TECHNICAL SKILLS
+Python, machine learning, scikit-learn, NLP basics, pandas, Jupyter, Git, data preparation
+
+EDUCATION
+BS Artificial Intelligence, Example University, 2025
+
+EXPERIENCE / PROJECTS
+AI Project Intern — FutureDemo | 2025
+- Prepared text datasets for a basic classification experiment.
+- Compared simple machine learning models using held-out data.
+- Recorded results and shared reproducible notebooks.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.

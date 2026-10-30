@@ -1,0 +1,24 @@
+LAIBA HASSAN
+Research Assistant
+Email: laiba.hassan@example.com | Phone: +92-300-0000014
+Location: Sialkot, Pakistan
+
+PROFESSIONAL SUMMARY
+Research assistant with experience organizing datasets, performing statistical analysis, and writing reports.
+
+TECHNICAL SKILLS
+Statistics, Excel, R, data cleaning, research methods, visualization, report writing
+
+EDUCATION
+BS Mathematics, Example University, 2023
+
+EXPERIENCE / PROJECTS
+Research Assistant — Example Research Group | 2023–2025
+- Cleaned survey data and documented data collection procedures.
+- Produced descriptive statistics and charts for research reports.
+- Maintained clear records of analysis steps.
+
+ADDITIONAL INFORMATION
+References available upon request.
+
+Note: This is a fictional sample CV created for software testing and educational use.
