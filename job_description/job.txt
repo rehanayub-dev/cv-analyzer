@@ -1,0 +1,187 @@
+# JOB DESCRIPTION: SENIOR PYTHON DEVELOPER
+
+## 1. Job Title
+Senior Python Developer
+
+## 2. Experience Required
+4–6 years of professional software development experience, including at least 3 years of hands-on Python development experience.
+
+## 3. Job Summary
+We are looking for an experienced Senior Python Developer to design, develop, test, and maintain scalable software applications. The ideal candidate will have strong expertise in Python programming, backend development, RESTful APIs, SQL databases, data processing, and software architecture.
+
+The candidate should be comfortable working with cross-functional teams, analyzing complex technical problems, writing clean and maintainable code, and delivering reliable software solutions. Experience with machine learning, data analysis, cloud platforms, and automated testing will be considered an advantage.
+
+## 4. Key Responsibilities
+
+### A. Python Development
+- Design, develop, and maintain applications using Python.
+- Write clean, reusable, efficient, and maintainable code.
+- Apply object-oriented programming principles and appropriate software design patterns.
+- Use Python libraries and frameworks to solve business problems.
+- Debug existing applications and improve code quality and performance.
+- Develop scripts to automate repetitive tasks and workflows.
+
+### B. Backend Development and REST APIs
+- Design, develop, and maintain RESTful APIs.
+- Build backend services using Django, Flask, or FastAPI.
+- Integrate APIs with databases and third-party services.
+- Implement authentication, authorization, validation, and error handling.
+- Document APIs and support their integration with frontend applications.
+- Improve API reliability, scalability, and response times.
+
+### C. Database Management
+- Design and maintain relational databases.
+- Write efficient SQL queries, joins, subqueries, and aggregations.
+- Work with PostgreSQL or MySQL.
+- Understand database normalization, indexing, and transaction management.
+- Optimize database performance and troubleshoot slow queries.
+- Manage data integrity and database migrations.
+
+### D. Data Analysis and Processing
+- Use Python libraries such as pandas and NumPy to process data.
+- Clean, transform, and validate structured datasets.
+- Perform exploratory data analysis when required.
+- Generate reports and summaries from business data.
+- Integrate data-processing pipelines with backend applications.
+
+### E. Machine Learning
+- Understand fundamental machine learning concepts.
+- Use scikit-learn to build and evaluate basic predictive models.
+- Prepare datasets for training and testing.
+- Understand common evaluation metrics, including precision, recall, F1-score, and accuracy.
+- Integrate machine learning models into Python applications when needed.
+
+Practical machine learning experience is desirable but is not mandatory for candidates whose primary expertise is backend development.
+
+### F. Software Testing and Quality Assurance
+- Write unit tests and integration tests.
+- Use pytest or unittest to test Python applications.
+- Identify, reproduce, and resolve software defects.
+- Participate in code reviews.
+- Follow coding standards and software engineering best practices.
+- Maintain technical documentation.
+
+### G. Version Control and Collaboration
+- Use Git for source control.
+- Work with branches, commits, merges, and pull requests.
+- Collaborate with developers, testers, designers, and project managers.
+- Participate in sprint planning, technical discussions, and code reviews.
+- Communicate technical information clearly to team members.
+
+### H. Deployment and Cloud Technologies
+- Understand application deployment processes.
+- Work with Docker for application containerization.
+- Understand CI/CD pipelines and automated deployment.
+- Have familiarity with cloud platforms such as AWS, Azure, or Google Cloud.
+- Monitor application performance and troubleshoot production issues.
+
+## 5. Required Technical Skills
+
+Candidates should demonstrate experience with the following technologies:
+
+1. Python programming
+2. Object-oriented programming
+3. Data structures and algorithms
+4. RESTful API development
+5. Django, Flask, or FastAPI
+6. SQL and relational databases
+7. PostgreSQL or MySQL
+8. Git and version control
+9. Unit testing and debugging
+10. Code optimization and problem-solving
+
+## 6. Preferred Skills
+
+The following skills are advantageous:
+
+- Machine learning using scikit-learn.
+- Data analysis using pandas and NumPy.
+- Data visualization.
+- Docker and containerization.
+- CI/CD pipelines.
+- Cloud computing.
+- Linux and command-line tools.
+- Redis or other caching technologies.
+- Celery or other background-task processing tools.
+- Basic knowledge of software security practices.
+
+## 7. Educational Qualifications
+
+- Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.
+- Equivalent practical experience and a strong portfolio may also be considered.
+- Relevant certifications are beneficial but not mandatory.
+
+## 8. Professional Experience Requirements
+
+The ideal candidate should have:
+
+- 4–6 years of professional software development experience.
+- At least 3 years of practical Python development experience.
+- Experience developing and maintaining production applications.
+- Experience designing and integrating REST APIs.
+- Experience working with SQL databases.
+- Experience using Git in collaborative development.
+- Demonstrated ability to debug, test, and maintain software.
+- Experience collaborating with a development team.
+
+## 9. Soft Skills
+
+- Strong analytical and problem-solving abilities.
+- Clear written and verbal communication.
+- Teamwork and collaboration.
+- Attention to detail.
+- Effective time management.
+- Willingness to learn new technologies.
+- Ability to explain technical decisions.
+- Professional approach to software development.
+
+## 10. Example Projects That Demonstrate Relevant Experience
+
+Candidates may demonstrate their abilities through projects such as:
+
+- A backend application developed using Python and Django.
+- A REST API connected to a PostgreSQL database.
+- A data analysis project using pandas and NumPy.
+- An automated reporting or data-processing application.
+- A machine learning application built with scikit-learn.
+- A containerized application deployed using Docker.
+- A software project with automated tests and Git-based collaboration.
+
+## 11. Candidate Evaluation Criteria
+
+Candidates may be evaluated using the following job-related criteria:
+
+- Python programming experience.
+- Backend development and REST API experience.
+- SQL and database knowledge.
+- Software testing and debugging.
+- Data processing and analysis.
+- Version control and teamwork.
+- Relevant professional experience.
+- Familiarity with deployment and cloud technologies.
+
+Machine learning, cloud computing, and other preferred skills should be evaluated separately from mandatory requirements.
+
+## 12. Expected Candidate Profile
+
+The successful candidate should be able to independently develop Python applications, design backend services, work with relational databases, troubleshoot technical problems, write automated tests, and collaborate effectively with other developers.
+
+Candidates should demonstrate their qualifications through relevant work experience, technical projects, or practical assessments.
+
+## 13. Employment Details
+
+Employment Type: Full-time
+
+Experience Level: Senior
+
+Required Experience: 4–6 years
+
+Primary Technology: Python
+
+Core Areas: Backend Development, REST APIs, SQL Databases, Software Testing
+
+Preferred Areas: Data Analysis, Machine Learning, Cloud Computing
+
+Work Arrangement: To be determined by the employer.
+
+Salary: Based on experience, skills, and company compensation policies.
